@@ -9,6 +9,7 @@ pip3 install uvicorn
 ## Finding your Python Path
 
 ganapathychidambaram@Ganapathys-MacBook-Air git-projects % which python3
+
 /opt/homebrew/bin/python3
 
 ## Setting up Pycharm 
